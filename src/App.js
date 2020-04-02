@@ -5,7 +5,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-        <DecreasingBoxes>
+        <DecreasingBoxes  n = {3}>
         </DecreasingBoxes>
     </div>
   );
